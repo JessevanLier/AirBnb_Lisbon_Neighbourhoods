@@ -1,7 +1,5 @@
 # AIRBNB LISBON
 
-C:\Users\lierj1\Downloads\lisbon
-
 What is the quality of the residences availible on AirBnB in the main city of Portugal, Lisbon. 
 
 
